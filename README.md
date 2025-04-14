@@ -9,7 +9,7 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,mysql,r,latex,vscode,anaconda" alt="Tech Stack" />
 </p>
 
-- 💻 Programming: **Python, C++, Basics of R, JavaScript, SQL**
+- 💻 Programming: **Python, C++, Basics of R, JavaScript, SQL, Solidity**
 - 🖥️ Web Development: **HTML, CSS, JavaScript**
 - 📊 Data Science: **NumPy, Pandas, Matplotlib, Seaborn**
 - 🌐 Networking & Security: **Wireshark**
