@@ -6,7 +6,7 @@
 
 ### 🛠 **Tech Stack & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,mysql,r,latex,vscode,anaconda" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,mysql,r,solidity,latex,vscode,anaconda" alt="Tech Stack" />
 </p>
 
 - 💻 Programming: **Python, C++, Basics of R, JavaScript, SQL, Solidity**
