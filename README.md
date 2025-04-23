@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Aurshitha 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&color=F77A07&width=435&lines=Web+Developer+%7C+AI+Enthusiast;Building+Smarter+Web+Experiences;Exploring+AI+%26+ML;Open+to+Collaborations!" />
+  <!--<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&color=F77A07&width=435&lines=Web+Developer+%7C+AI+Enthusiast;Building+Smarter+Web+Experiences;Exploring+AI+%26+ML;Open+to+Collaborations!" /> -->
 </p>
 
 ### 🛠 **Tech Stack & Tools**
